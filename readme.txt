@@ -1,18 +1,23 @@
-Enunciado Atividade Individual 1
+# Portfólio Pessoal de Matheus Quintanilha
 
-PRINCIPAL (1000XP):
-Criar um mini-currículo/portfólio contendo:
+Este é o repositório do código-fonte do meu portfólio pessoal, desenvolvido usando HTML e CSS.
 
-- Uma imagem profissional sua e seu nome completo (100XP);
-- Um parágrafo falando mais sobre você (50XP);
-- Para cada empresa ou projeto no qual você trabalhou, botar uma imagem da logo ou ilustrativa, e indicar a experiência que teve nela e quais linguagens utilizou (formato de tabela) (200XP);
-- Apresentar uma lista das línguas que tem proficiência (indicar nível ao lado, sendo os mesmos do Linkedin) (100XP);
-- Apresentar um ranking de empresas que deseja trabalhar (100XP);
-- Lembre-se de separar as seções acima, indicando-as por títulos próprios (100XP);
-- Apresentar um formulário no final da página para que possam entrar em contato (100XP);
-- A página deve ter um header, com navegação entre seções, e um footer (150XP);
-- Utilize o máximo de CSS possível para deixar o seu currículo apresentável (100XP).
+## Tecnologias Utilizadas
 
-EXTRA (200XP):
-* A navegação deve funcionar na mesma página, com uma animação indo até a seção clicada (50XP);
-* Otimizar a sua página para SEO e deixá-la mais acessível (150XP).
+O portfólio foi desenvolvido usando as seguintes tecnologias:
+- **HTML**
+- **CSS**
+
+## Como visualizar
+
+Para visualizar o portfólio, basta acessar [https://personal-portfolio-matheus-ada-santander.vercel.app/](https://personal-portfolio-matheus-ada-santander.vercel.app/) em seu navegador da web.
+
+## Como contribuir
+
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
+![Captura de Tela](assets/img/portfolio.png)
