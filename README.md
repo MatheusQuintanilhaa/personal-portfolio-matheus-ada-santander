@@ -1,5 +1,3 @@
-# personal-portfolio-matheus-ada-santander
-
 # Portfólio Pessoal de Matheus Quintanilha
 
 Este é o repositório do código-fonte do meu portfólio pessoal, desenvolvido usando HTML e CSS. Este projeto foi desenvolvido como parte das aulas oferecidas pelo curso da Ada e Santander, aplicando os conceitos aprendidos até agora.
